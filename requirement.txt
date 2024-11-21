@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+numpy
+pandas
+collection 
+wordclour
